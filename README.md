@@ -1,4 +1,4 @@
-# GDSquarefall
+# GDSquarefall - v1.0
 
 Ein minimalistisches Survival-Spiel, entwickelt mit Python und Pygame. Es dient als Einstiegsprojekt, um die Kernkonzepte der Spielelogik und Kollisionserkennung zu demonstrieren.
 
